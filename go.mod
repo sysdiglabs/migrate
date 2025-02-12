@@ -36,6 +36,8 @@ require (
 	golang.org/x/oauth2 v0.30.0
 	golang.org/x/tools/godoc v0.1.0-deprecated
 	google.golang.org/api v0.247.0
+	go.uber.org/atomic v1.11.0
+	golang.org/x/tools v0.24.0
 	modernc.org/ql v1.0.0
 	modernc.org/sqlite v1.18.1
 )
